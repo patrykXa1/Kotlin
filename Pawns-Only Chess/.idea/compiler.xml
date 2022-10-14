@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-classes-kotlin.main" target="11" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-reports-tests.main" target="11" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-test-results.main" target="11" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-tmp.main" target="11" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-out.main" target="11" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Getting_substrings-Exchange.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Getting_substrings-The_last_of_u.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Getting_substrings-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Getting_substrings-Void.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Multi-dimensional_list-Corners.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Multi-dimensional_list-Shapeshifter.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Multi-dimensional_list-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Processing_strings-Convert_a_date.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Processing_strings-Determine_the_value.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Processing_strings-Palindrome.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Processing_strings-The_lucky_ticket.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Processing_strings-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Regexps-Different_colo_u_rs.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Regexps-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Work_with_MutableLists-Adding_values.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Work_with_MutableLists-Changing_the_existing_values.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Work_with_MutableLists-Editing_and_recreating.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Work_with_MutableLists-Empty.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Work_with_MutableLists-Initialization.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Work_with_MutableLists-Playing_with_numbers.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Work_with_MutableLists-Printing_a_list.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Work_with_MutableLists-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Work_with_MutableLists-Yet_another_list.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Working_with_strings-Extraction_of_a_character.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Working_with_strings-Name_Card.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Working_with_strings-Operations_and_truth.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Working_with_strings-The_same_line.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Working_with_strings-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
